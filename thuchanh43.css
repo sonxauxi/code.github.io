@@ -1,0 +1,29 @@
+.box3 {
+    border-top-width: 5px;
+    float: left;
+    display: flex;
+    justify-content: flex-start;  
+    margin-top: 30px;
+
+}
+.red3 { 
+    height: 400px;
+    width: 33.333%;
+    color: red;
+    background-color: red;
+    border-color: red;
+}
+.green3 {
+    border-color: springgreen; 
+    height: 400px;
+    width: 33.333%;
+    background-color: springgreen;
+    color:springgreen;
+}
+.blue3 {
+    border-color: blue;
+    height: 400px;
+    width: 33.333%;
+    background-color: blue;
+    color: blue;
+}
